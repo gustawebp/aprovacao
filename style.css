@@ -6,7 +6,7 @@ body {
     font-size: 27pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    background-image: linear-gradient(to right, blue, red);
+    background-image: linear-gradient(to right,#363432 30%, #196774);
     font-family: 'Comfortaa', cursive;
     
     
@@ -55,7 +55,7 @@ h2{
 
 
 #g {
-    background-color: rgba(243, 12, 12, 0.164);
+    background-color: rgba(0, 0, 0, 0.205);
     border-radius: 50px;
     box-shadow: 4px 4px 2px 2px rgba(0, 0, 0, 0.658);
 }
